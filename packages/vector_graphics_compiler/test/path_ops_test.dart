@@ -3,8 +3,8 @@
 // found in the LICENSE file.
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:vector_graphics_compiler/src/svg/path_ops.dart';
-import 'package:vector_graphics_compiler/src/_initialize_path_ops_io.dart'
+import 'package:vector_graphics_compiler_plus/src/svg/path_ops.dart';
+import 'package:vector_graphics_compiler_plus/src/_initialize_path_ops_io.dart'
     as vector_graphics;
 
 void main() {

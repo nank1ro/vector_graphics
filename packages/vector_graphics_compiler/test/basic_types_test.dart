@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-import 'package:vector_graphics_compiler/vector_graphics_compiler.dart';
+import 'package:vector_graphics_compiler_plus/vector_graphics_compiler.dart';
 
 import 'package:flutter_test/flutter_test.dart';
 

@@ -5,8 +5,8 @@
 import 'dart:io';
 
 import 'package:args/args.dart';
-import 'package:vector_graphics_compiler/src/svg/colors.dart';
-import 'package:vector_graphics_compiler/vector_graphics_compiler.dart';
+import 'package:vector_graphics_compiler_plus/src/svg/colors.dart';
+import 'package:vector_graphics_compiler_plus/vector_graphics_compiler.dart';
 
 import 'util/isolate_processor.dart';
 import 'package:path/path.dart' as p;

@@ -3,8 +3,8 @@
 // found in the LICENSE file.
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:vector_graphics_compiler/src/draw_command_builder.dart';
-import 'package:vector_graphics_compiler/vector_graphics_compiler.dart';
+import 'package:vector_graphics_compiler_plus/src/draw_command_builder.dart';
+import 'package:vector_graphics_compiler_plus/vector_graphics_compiler.dart';
 
 void main() {
   test('DrawCommandBuilder does not emit empty paths', () {

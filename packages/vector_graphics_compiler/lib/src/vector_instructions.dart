@@ -5,7 +5,7 @@
 import 'package:meta/meta.dart';
 import 'geometry/pattern.dart';
 import 'geometry/image.dart';
-import 'package:vector_graphics_compiler/src/util.dart';
+import 'package:vector_graphics_compiler_plus/src/util.dart';
 
 import 'geometry/path.dart';
 import 'geometry/vertices.dart';

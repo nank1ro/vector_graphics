@@ -3,13 +3,13 @@
 // found in the LICENSE file.
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:vector_graphics_compiler/src/geometry/basic_types.dart';
-import 'package:vector_graphics_compiler/src/geometry/matrix.dart';
-import 'package:vector_graphics_compiler/src/geometry/path.dart';
-import 'package:vector_graphics_compiler/src/paint.dart';
-import 'package:vector_graphics_compiler/src/svg/node.dart';
-import 'package:vector_graphics_compiler/src/svg/parser.dart';
-import 'package:vector_graphics_compiler/src/svg/resolver.dart';
+import 'package:vector_graphics_compiler_plus/src/geometry/basic_types.dart';
+import 'package:vector_graphics_compiler_plus/src/geometry/matrix.dart';
+import 'package:vector_graphics_compiler_plus/src/geometry/path.dart';
+import 'package:vector_graphics_compiler_plus/src/paint.dart';
+import 'package:vector_graphics_compiler_plus/src/svg/node.dart';
+import 'package:vector_graphics_compiler_plus/src/svg/parser.dart';
+import 'package:vector_graphics_compiler_plus/src/svg/resolver.dart';
 
 import 'helpers.dart';
 

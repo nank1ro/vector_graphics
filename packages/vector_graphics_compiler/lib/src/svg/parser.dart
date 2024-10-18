@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'dart:typed_data';
 
 import 'package:meta/meta.dart';
-import 'package:vector_graphics_compiler/src/image/image_info.dart';
+import 'package:vector_graphics_compiler_plus/src/image/image_info.dart';
 import 'package:xml/xml_events.dart';
 
 import '../geometry/basic_types.dart';

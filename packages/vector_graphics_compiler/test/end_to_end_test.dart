@@ -7,9 +7,9 @@ import 'dart:typed_data';
 
 import 'package:flutter/widgets.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:vector_graphics/vector_graphics.dart';
+import 'package:vector_graphics_plus/vector_graphics.dart';
 import 'package:vector_graphics_codec/vector_graphics_codec.dart';
-import 'package:vector_graphics_compiler/vector_graphics_compiler.dart';
+import 'package:vector_graphics_compiler_plus/vector_graphics_compiler.dart';
 
 import 'test_svg_strings.dart';
 

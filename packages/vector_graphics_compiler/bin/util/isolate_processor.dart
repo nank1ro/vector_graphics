@@ -7,8 +7,8 @@ import 'dart:io';
 import 'dart:isolate';
 import 'dart:typed_data';
 
-import 'package:vector_graphics_compiler/vector_graphics_compiler.dart';
-import 'package:vector_graphics_compiler/src/debug_format.dart';
+import 'package:vector_graphics_compiler_plus/vector_graphics_compiler.dart';
+import 'package:vector_graphics_compiler_plus/src/debug_format.dart';
 
 /// The isolate processor distributes SVG compilation across multiple isolates.
 class IsolateProcessor {

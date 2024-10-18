@@ -1,4 +1,4 @@
-import 'package:vector_graphics_compiler/src/svg/node.dart';
+import 'package:vector_graphics_compiler_plus/src/svg/node.dart';
 
 List<T> queryChildren<T extends Node>(Node node) {
   final List<T> children = <T>[];

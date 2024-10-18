@@ -3,7 +3,7 @@
 // found in the LICENSE file.
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:vector_graphics_compiler/src/util.dart';
+import 'package:vector_graphics_compiler_plus/src/util.dart';
 
 void main() {
   test('listEquals', () {

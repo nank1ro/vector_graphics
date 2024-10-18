@@ -1,4 +1,4 @@
-import 'package:vector_graphics_compiler/src/geometry/path.dart';
+import 'package:vector_graphics_compiler_plus/src/geometry/path.dart';
 
 const List<String> allSvgTestStrings = <String>[
   ghostscriptTiger,

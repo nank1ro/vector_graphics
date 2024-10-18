@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.1.12
+
+- Fork package
+
 ## 1.1.11+
 
 - Relax package:http constraint.

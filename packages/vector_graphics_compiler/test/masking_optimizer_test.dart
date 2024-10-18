@@ -4,10 +4,10 @@
 
 import 'dart:core';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:vector_graphics_compiler/src/svg/node.dart';
-import 'package:vector_graphics_compiler/src/svg/masking_optimizer.dart';
-import 'package:vector_graphics_compiler/src/svg/parser.dart';
-import 'package:vector_graphics_compiler/vector_graphics_compiler.dart';
+import 'package:vector_graphics_compiler_plus/src/svg/node.dart';
+import 'package:vector_graphics_compiler_plus/src/svg/masking_optimizer.dart';
+import 'package:vector_graphics_compiler_plus/src/svg/parser.dart';
+import 'package:vector_graphics_compiler_plus/vector_graphics_compiler.dart';
 
 import 'helpers.dart';
 import 'test_svg_strings.dart';

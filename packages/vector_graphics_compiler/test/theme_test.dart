@@ -4,8 +4,8 @@
 
 // ignore_for_file: prefer_const_constructors
 
-import 'package:vector_graphics_compiler/src/paint.dart';
-import 'package:vector_graphics_compiler/src/svg/theme.dart';
+import 'package:vector_graphics_compiler_plus/src/paint.dart';
+import 'package:vector_graphics_compiler_plus/src/svg/theme.dart';
 
 import 'package:flutter_test/flutter_test.dart';
 
