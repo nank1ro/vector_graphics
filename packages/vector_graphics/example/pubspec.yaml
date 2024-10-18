@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   vector_graphics_plus: any
-  vector_graphics_compiler: any
+  vector_graphics_compiler_plus: any
 
 dev_dependencies:
   flutter_test:
@@ -21,7 +21,7 @@ flutter:
   uses-material-design: true
 
 dependency_overrides:
-  vector_graphics_compiler:
+  vector_graphics_compiler_plus:
     path: ../../vector_graphics_compiler
   vector_graphics_codec:
     path: ../../vector_graphics_codec
