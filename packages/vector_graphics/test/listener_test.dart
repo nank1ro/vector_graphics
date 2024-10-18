@@ -9,8 +9,8 @@ import 'dart:ui' as ui;
 import 'package:flutter/foundation.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:vector_graphics/src/listener.dart';
-import 'package:vector_graphics/vector_graphics_compat.dart';
+import 'package:vector_graphics_plus/src/listener.dart';
+import 'package:vector_graphics_plus/vector_graphics_compat.dart';
 import 'package:vector_graphics_compiler/vector_graphics_compiler.dart';
 
 void main() {

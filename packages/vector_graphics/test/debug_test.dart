@@ -3,7 +3,7 @@
 // found in the LICENSE file.
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:vector_graphics/src/debug.dart';
+import 'package:vector_graphics_plus/src/debug.dart';
 
 void main() {
   test('debugSkipRaster is false by default', () {

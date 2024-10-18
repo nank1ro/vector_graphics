@@ -8,7 +8,7 @@ import 'dart:io';
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:vector_graphics/vector_graphics.dart';
+import 'package:vector_graphics_plus/vector_graphics.dart';
 import 'package:vector_graphics_compiler/vector_graphics_compiler.dart';
 
 const String _flutterLogoString = '''

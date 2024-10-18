@@ -7,7 +7,7 @@ import 'dart:developer';
 import 'package:http/http.dart' as http;
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:vector_graphics/vector_graphics.dart';
+import 'package:vector_graphics_plus/vector_graphics.dart';
 import 'package:vector_graphics_compiler/vector_graphics_compiler.dart';
 
 void main() {

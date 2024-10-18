@@ -9,8 +9,8 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:vector_graphics/src/listener.dart';
-import 'package:vector_graphics/src/vector_graphics.dart';
+import 'package:vector_graphics_plus/src/listener.dart';
+import 'package:vector_graphics_plus/src/vector_graphics.dart';
 import 'package:vector_graphics_codec/vector_graphics_codec.dart';
 
 const VectorGraphicsCodec codec = VectorGraphicsCodec();
