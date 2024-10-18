@@ -8,7 +8,7 @@ import 'package:http/http.dart' as http;
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:vector_graphics_plus/vector_graphics.dart';
-import 'package:vector_graphics_compiler/vector_graphics_compiler.dart';
+import 'package:vector_graphics_compiler_plus/vector_graphics_compiler.dart';
 
 void main() {
   runApp(const MyApp());

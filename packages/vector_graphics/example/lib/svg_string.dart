@@ -9,7 +9,7 @@ import 'dart:io';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:vector_graphics_plus/vector_graphics.dart';
-import 'package:vector_graphics_compiler/vector_graphics_compiler.dart';
+import 'package:vector_graphics_compiler_plus/vector_graphics_compiler.dart';
 
 const String _flutterLogoString = '''
 <svg xmlns="http://www.w3.org/2000/svg" width="384" height="384" fill="none"
